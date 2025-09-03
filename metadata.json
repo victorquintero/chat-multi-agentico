@@ -1,0 +1,5 @@
+{
+  "name": "Copia del chat de Géminis múltiple",
+  "description": "Un orquestador agente donde cuatro agentes de IA colaboran y refinan sus respuestas, que luego se sintetizan en una sola respuesta final.",
+  "requestFramePermissions": []
+}
